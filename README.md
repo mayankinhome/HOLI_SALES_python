@@ -1,7 +1,3 @@
 # HOLI_SALES_python
-Data analysis of Holi Sales;
-By observation we see women is more active in buying product comparing to men
-people in IT sector have most order placed
-people below 17 years have lowest value of order placed
-people having age range 26-35 have highest order place value
-most values are spen on food items
+
+During the Holi sales period, data analysis reveals several key consumer behavior trends. Women were notably more active in purchasing products compared to men, indicating a higher level of engagement during the festive shopping season. Among various professions, individuals working in the IT sector placed the most orders, showcasing their significant contribution to overall sales. When analyzing age groups, people under the age of 17 had the lowest total order value, suggesting limited purchasing power or engagement. In contrast, the age group of 26 to 35 emerged as the highest spenders, both in terms of order frequency and value. Additionally, a substantial portion of the total expenditure was directed toward food items, highlighting a strong preference for consumables during the festivities.
